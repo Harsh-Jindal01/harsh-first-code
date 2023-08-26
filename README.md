@@ -1,4 +1,4 @@
 # harsh-first-code
 Writing my first repository
 <br>
-Author-Harsh jindal
+Author-Harsh jindal (CGC Landran)
